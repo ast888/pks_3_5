@@ -7,7 +7,6 @@
 
 ## Работа приложения
 
-![Работа приложения]
 ![Android Emulator - Medium_Phone_API_35_5554 2024-10-06 23-46-59](https://github.com/user-attachments/assets/66718467-e527-4d3c-a383-f73486720bed)
 
 ### Описание
